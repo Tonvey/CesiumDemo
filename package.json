@@ -1,0 +1,21 @@
+{
+  "name": "CesiumDemo",
+  "version": "1.0.0",
+  "description": "A Cesium Application Demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Tonvey/CesiumDemo",
+  "keywords": [
+    "Electron",
+    "cesium",
+    "demo"
+  ],
+  "author": "Tonvey",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cesium": "^1.76.0",
+    "electron": "^11.0.3"
+  }
+}
